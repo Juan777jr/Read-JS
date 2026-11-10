@@ -1,15 +1,15 @@
 import Hero from '../components/Hero';
 import Homecards from '../components/Homecards';
-import JobListing from '../components/JobListing';
-import ViewAIIjobs from '../components/ViewAIIjobs';
+import JobListings from '../components/JobListings'; // Ojo: en plural
+import ViewAllJobs from '../components/ViewAllJobs.jsx';
 
 const HomePage = () => {
   return (
     <>
       <Hero />
       <Homecards />
-      <JobListing />
-      <ViewAIIjobs />
+      <JobListings /> {/* Aquí va el contenedor que carga los trabajos */}
+      <ViewAllJobs />
     </>
   );
 };
