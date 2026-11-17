@@ -83,6 +83,1323 @@
         "contactEmail": "contact@ipsumlorem.com",
         "contactPhone": "555-555-5555"
       }
+    },
+    {
+      "id": "7",
+      "title": "Junior UI Engineer",
+      "type": "Full-Time",
+      "description": "Looking for a Junior UI Engineer eager to learn React, Tailwind CSS, and modern frontend pipelines in Austin, TX.",
+      "location": "Austin, TX",
+      "salary": "$50K - $60K",
+      "company": {
+        "name": "Austin Web Co",
+        "description": "Web agency focused on high-performance landing pages and interactive client interfaces.",
+        "contactEmail": "jobs@austinweb.com",
+        "contactPhone": "555-123-4567"
+      }
+    },
+    {
+      "id": "8",
+      "title": "Senior JavaScript Engineer",
+      "type": "Remote",
+      "description": "Lead architectural decisions for enterprise web applications using React 19, Vite, and GraphQL.",
+      "location": "Remote",
+      "salary": "$120K - $140K",
+      "company": {
+        "name": "CloudScale Global",
+        "description": "Distributed cloud infrastructure and developer tools provider.",
+        "contactEmail": "careers@cloudscale.io",
+        "contactPhone": "555-987-6543"
+      }
+    },
+    {
+      "id": "9",
+      "title": "Frontend Architect",
+      "type": "Full-Time",
+      "description": "Drive component library development, design systems, and performance tuning across multiple client apps.",
+      "location": "Seattle, WA",
+      "salary": "$130K - $150K+",
+      "company": {
+        "name": "Cascade Systems",
+        "description": "Enterprise SaaS applications for supply chain management.",
+        "contactEmail": "hr@cascadesys.com",
+        "contactPhone": "555-456-7890"
+      }
+    },
+    {
+      "id": "10",
+      "title": "React & Node.js Developer",
+      "type": "Full-Time",
+      "description": "Build end-to-end features connecting React frontends with Express and PostgreSQL microservices.",
+      "location": "Chicago, IL",
+      "salary": "$80K - $95K",
+      "company": {
+        "name": "Windy City Tech",
+        "description": "Fintech solutions for mid-market financial institutions.",
+        "contactEmail": "jobs@windycitytech.org",
+        "contactPhone": "555-321-0987"
+      }
+    },
+    {
+      "id": "11",
+      "title": "UI/UX Frontend Developer",
+      "type": "Part-Time",
+      "description": "Translate Figma designs into clean, responsive React components with animations and accessibility support.",
+      "location": "Denver, CO",
+      "salary": "$55K - $65K",
+      "company": {
+        "name": "Rocky Mountain Design",
+        "description": "Digital product studio crafting engaging user journeys.",
+        "contactEmail": "hello@rockymountaindesign.co",
+        "contactPhone": "555-654-3210"
+      }
+    },
+    {
+      "id": "12",
+      "title": "Lead React Native Mobile Dev",
+      "type": "Full-Time",
+      "description": "Manage cross-platform mobile apps published on iOS and Android app stores using React Native.",
+      "location": "San Francisco, CA",
+      "salary": "$125K - $145K",
+      "company": {
+        "name": "Bay Mobile Labs",
+        "description": "Mobile-first product incubator in the heart of Silicon Valley.",
+        "contactEmail": "talent@baymobilelabs.com",
+        "contactPhone": "555-789-0123"
+      }
+    },
+    {
+      "id": "13",
+      "title": "Frontend Testing Specialist",
+      "type": "Remote",
+      "description": "Implement robust automated testing suites using Vitest, Jest, Cypress, and React Testing Library.",
+      "location": "Remote",
+      "salary": "$75K - $90K",
+      "company": {
+        "name": "QualityFirst QA",
+        "description": "Software quality assurance and testing automation consultancy.",
+        "contactEmail": "careers@qualityfirstqa.net",
+        "contactPhone": "555-890-1234"
+      }
+    },
+    {
+      "id": "14",
+      "title": "Junior Web Developer",
+      "type": "Internship",
+      "description": "Paid 6-month internship program focusing on modern JavaScript, git workflows, and agile team practices.",
+      "location": "Nashville, TN",
+      "salary": "Under $50K",
+      "company": {
+        "name": "Music City Code",
+        "description": "Educational platform and tech bootcamp partner.",
+        "contactEmail": "internships@musiccitycode.edu",
+        "contactPhone": "555-234-5678"
+      }
+    },
+    {
+      "id": "15",
+      "title": "React Performance Engineer",
+      "type": "Full-Time",
+      "description": "Audit rendering bottlenecks, optimize bundle sizes, and implement code splitting for large-scale portals.",
+      "location": "Dallas, TX",
+      "salary": "$110K - $130K",
+      "company": {
+        "name": "Lone Star Web Ops",
+        "description": "High-availability web hosting and performance optimization.",
+        "contactEmail": "jobs@lonestarwebops.com",
+        "contactPhone": "555-345-6789"
+      }
+    },
+    {
+      "id": "16",
+      "title": "E-Commerce Frontend Developer",
+      "type": "Full-Time",
+      "description": "Build custom storefront components, checkout flows, and payment integrations using React and Shopify Storefront API.",
+      "location": "Charlotte, NC",
+      "salary": "$75K - $85K",
+      "company": {
+        "name": "Queen City Commerce",
+        "description": "Digital commerce agency scaling DTC brands.",
+        "contactEmail": "hiring@queencitycommerce.com",
+        "contactPhone": "555-456-7890"
+      }
+    },
+    {
+      "id": "17",
+      "title": "Design Systems Engineer",
+      "type": "Remote",
+      "description": "Build accessible, themeable React UI component libraries consumed across multiple enterprise products.",
+      "location": "Remote",
+      "salary": "$100K - $120K",
+      "company": {
+        "name": "Pixel Perfect Labs",
+        "description": "Design systems and component architecture experts.",
+        "contactEmail": "team@pixelperfectlabs.io",
+        "contactPhone": "555-567-8901"
+      }
+    },
+    {
+      "id": "18",
+      "title": "Full Stack JavaScript Developer",
+      "type": "Full-Time",
+      "description": "Build full stack solutions using React, Express, and MongoDB in a fast-paced agile startup environment.",
+      "location": "San Diego, CA",
+      "salary": "$95K - $115K",
+      "company": {
+        "name": "Pacific Wave Tech",
+        "description": "SaaS platform for coastal logistics and shipping.",
+        "contactEmail": "jobs@pacificwavetech.com",
+        "contactPhone": "555-678-9012"
+      }
+    },
+    {
+      "id": "19",
+      "title": "React Dashboard Developer",
+      "type": "Part-Time",
+      "description": "Develop data visualization dashboards using Chart.js, D3, and React for business intelligence tools.",
+      "location": "Philadelphia, PA",
+      "salary": "$65K - $75K",
+      "company": {
+        "name": "Liberty Analytics",
+        "description": "Data analytics and business intelligence dashboards.",
+        "contactEmail": "careers@libertyanalytics.org",
+        "contactPhone": "555-789-0124"
+      }
+    },
+    {
+      "id": "20",
+      "title": "Senior Frontend Developer",
+      "type": "Full-Time",
+      "description": "Lead feature development for our core SaaS dashboard using React, TypeScript, and Tailwind CSS.",
+      "location": "Las Vegas, NV",
+      "salary": "$100K - $120K",
+      "company": {
+        "name": "Neon Valley Software",
+        "description": "Innovative software house building interactive entertainment tools.",
+        "contactEmail": "jobs@neonvalley.dev",
+        "contactPhone": "555-890-1235"
+      }
+    },
+    {
+      "id": "21",
+      "title": "Junior React Developer",
+      "type": "Full-Time",
+      "description": "Kickstart your career building component-driven interfaces alongside experienced senior engineers.",
+      "location": "Orlando, FL",
+      "salary": "$55K - $65K",
+      "company": {
+        "name": "Suncoast Digital",
+        "description": "Digital marketing and web development agency.",
+        "contactEmail": "hr@suncoastdigital.com",
+        "contactPhone": "555-901-2346"
+      }
+    },
+    {
+      "id": "22",
+      "title": "React Native App Developer",
+      "type": "Remote",
+      "description": "Build and publish cross-platform mobile apps with seamless offline-first synchronization.",
+      "location": "Remote",
+      "salary": "$95K - $115K",
+      "company": {
+        "name": "Nomad Mobile",
+        "description": "Remote-first mobile app development studio.",
+        "contactEmail": "jobs@nomadmobile.co",
+        "contactPhone": "555-012-3457"
+      }
+    },
+    {
+      "id": "23",
+      "title": "Frontend Software Engineer",
+      "type": "Full-Time",
+      "description": "Develop responsive, accessible web portals for healthcare providers and patient management.",
+      "location": "Salt Lake City, UT",
+      "salary": "$85K - $100K",
+      "company": {
+        "name": "Wasatch Health Tech",
+        "description": "Healthcare technology solutions provider.",
+        "contactEmail": "careers@wasatchhealth.org",
+        "contactPhone": "555-123-4568"
+      }
+    },
+    {
+      "id": "24",
+      "title": "React Web Developer",
+      "type": "Part-Time",
+      "description": "Maintain and enhance client web portals, fixing bugs and implementing responsive layout updates.",
+      "location": "Minneapolis, MN",
+      "salary": "$60K - $70K",
+      "company": {
+        "name": "Twin Cities Web",
+        "description": "Local web solutions agency.",
+        "contactEmail": "info@twincitiesweb.net",
+        "contactPhone": "555-234-5679"
+      }
+    },
+    {
+      "id": "25",
+      "title": "Senior Frontend Engineer",
+      "type": "Full-Time",
+      "description": "Architect scalable frontend applications with React, Redux Toolkit, and RESTful APIs.",
+      "location": "Phoenix, AZ",
+      "salary": "$105K - $125K",
+      "company": {
+        "name": "Desert Sun Tech",
+        "description": "Solar energy management platforms and software.",
+        "contactEmail": "jobs@desertsuntech.com",
+        "contactPhone": "555-345-6780"
+      }
+    },
+    {
+      "id": "26",
+      "title": "UI Developer",
+      "type": "Full-Time",
+      "description": "Convert complex wireframes into pixel-perfect React components with smooth CSS transitions.",
+      "location": "Houston, TX",
+      "salary": "$75K - $90K",
+      "company": {
+        "name": "Space City Digital",
+        "description": "Aerospace software and interactive web tools.",
+        "contactEmail": "careers@spacecitydigital.com",
+        "contactPhone": "555-456-7891"
+      }
+    },
+    {
+      "id": "27",
+      "title": "React Integration Engineer",
+      "type": "Remote",
+      "description": "Connect third-party payment gateways, authentication providers, and CRM APIs to React frontends.",
+      "location": "Remote",
+      "salary": "$90K - $110K",
+      "company": {
+        "name": "API Bridge Corp",
+        "description": "API integration middleware specialists.",
+        "contactEmail": "jobs@apibridge.io",
+        "contactPhone": "555-567-8902"
+      }
+    },
+    {
+      "id": "28",
+      "title": "Frontend Developer - EdTech",
+      "type": "Full-Time",
+      "description": "Build interactive learning management system modules using React and interactive quizzes.",
+      "location": "Columbus, OH",
+      "salary": "$70K - $85K",
+      "company": {
+        "name": "Buckeye EdTech",
+        "description": "Online learning platforms for higher education.",
+        "contactEmail": "hr@buckeyeedtech.com",
+        "contactPhone": "555-678-9013"
+      }
+    },
+    {
+      "id": "29",
+      "title": "React Native Engineer",
+      "type": "Full-Time",
+      "description": "Build high-performance mobile applications with native device integrations.",
+      "location": "Austin, TX",
+      "salary": "$115K - $135K",
+      "company": {
+        "name": "Lone Star Mobile",
+        "description": "Mobile software development agency.",
+        "contactEmail": "talent@lonestarmobile.dev",
+        "contactPhone": "555-789-0125"
+      }
+    },
+    {
+      "id": "30",
+      "title": "Junior Frontend Developer",
+      "type": "Part-Time",
+      "description": "Support our core web team in refactoring legacy code into modern React functional components.",
+      "location": "Tampa, FL",
+      "salary": "Under $50K",
+      "company": {
+        "name": "Gulf Coast Web",
+        "description": "Digital agency in sunny Tampa.",
+        "contactEmail": "jobs@gulfcoastweb.net",
+        "contactPhone": "555-890-1236"
+      }
+    },
+    {
+      "id": "31",
+      "title": "Senior React Architect",
+      "type": "Remote",
+      "description": "Define frontend standards, mentorship guidelines, and micro-frontend architectures across engineering squads.",
+      "location": "Remote",
+      "salary": "$140K - $160K",
+      "company": {
+        "name": "Apex Cloud Solutions",
+        "description": "Enterprise cloud services and architecture.",
+        "contactEmail": "careers@apexcloud.io",
+        "contactPhone": "555-901-2347"
+      }
+    },
+    {
+      "id": "32",
+      "title": "React Frontend Developer",
+      "type": "Full-Time",
+      "description": "Build feature-rich property listing and management dashboards for real estate tech.",
+      "location": "Miami, FL",
+      "salary": "$80K - $95K",
+      "company": {
+        "name": "Biscayne PropTech",
+        "description": "Real estate technology platforms.",
+        "contactEmail": "jobs@biscayneprop.com",
+        "contactPhone": "555-012-3458"
+      }
+    },
+    {
+      "id": "33",
+      "title": "Frontend Engineer - Gaming",
+      "type": "Full-Time",
+      "description": "Create companion web apps and tournament leaderboards for esports communities using React.",
+      "location": "Los Angeles, CA",
+      "salary": "$90K - $110K",
+      "company": {
+        "name": "Level Up Interactive",
+        "description": "Gaming community portals and streaming tools.",
+        "contactEmail": "careers@levelup.gg",
+        "contactPhone": "555-123-4569"
+      }
+    },
+    {
+      "id": "34",
+      "title": "React Developer - Travel",
+      "type": "Remote",
+      "description": "Develop booking engines, interactive maps, and itinerary planners with React and Mapbox.",
+      "location": "Remote",
+      "salary": "$85K - $100K",
+      "company": {
+        "name": "Wanderlust Tech",
+        "description": "Travel booking software and discovery portals.",
+        "contactEmail": "jobs@wanderlusttech.co",
+        "contactPhone": "555-234-5680"
+      }
+    },
+    {
+      "id": "35",
+      "title": "Lead UI Developer",
+      "type": "Full-Time",
+      "description": "Lead a team of 4 frontend developers building enterprise dashboard analytics.",
+      "location": "New York, NY",
+      "salary": "$130K - $150K",
+      "company": {
+        "name": "Manhattan Analytics",
+        "description": "Financial analytics and reporting dashboards.",
+        "contactEmail": "talent@manhattananalytics.com",
+        "contactPhone": "555-345-6781"
+      }
+    },
+    {
+      "id": "36",
+      "title": "React & TypeScript Engineer",
+      "type": "Full-Time",
+      "description": "Build type-safe React applications with robust state management and unit testing.",
+      "location": "Boston, MA",
+      "salary": "$95K - $115K",
+      "company": {
+        "name": "Beantown Code",
+        "description": "Software consultancy for Boston startups.",
+        "contactEmail": "jobs@beantowncode.com",
+        "contactPhone": "555-456-7892"
+      }
+    },
+    {
+      "id": "37",
+      "title": "Frontend Developer - GreenTech",
+      "type": "Remote",
+      "description": "Build carbon tracking calculators and renewable energy monitoring portals.",
+      "location": "Remote",
+      "salary": "$80K - $95K",
+      "company": {
+        "name": "EcoGrid Systems",
+        "description": "Green energy management software.",
+        "contactEmail": "careers@ecogrid.io",
+        "contactPhone": "555-567-8903"
+      }
+    },
+    {
+      "id": "38",
+      "title": "React Native Developer",
+      "type": "Part-Time",
+      "description": "Maintain cross-platform fitness tracking app features and push notification services.",
+      "location": "San Diego, CA",
+      "salary": "$60K - $75K",
+      "company": {
+        "name": "FitPulse Mobile",
+        "description": "Health and fitness mobile apps.",
+        "contactEmail": "jobs@fitpulsemobile.com",
+        "contactPhone": "555-678-9014"
+      }
+    },
+    {
+      "id": "39",
+      "title": "Senior UI/UX React Developer",
+      "type": "Full-Time",
+      "description": "Design and code high-conversion landing pages and interactive user portals.",
+      "location": "San Francisco, CA",
+      "salary": "$120K - $140K",
+      "company": {
+        "name": "Silicon UI Lab",
+        "description": "UX research and frontend development studio.",
+        "contactEmail": "careers@siliconuilab.com",
+        "contactPhone": "555-789-0126"
+      }
+    },
+    {
+      "id": "40",
+      "title": "React Developer - Logistics",
+      "type": "Full-Time",
+      "description": "Build real-time delivery tracking maps and warehouse management interfaces.",
+      "location": "Chicago, IL",
+      "salary": "$85K - $100K",
+      "company": {
+        "name": "Midwest Freight Tech",
+        "description": "Supply chain and logistics software.",
+        "contactEmail": "jobs@midwestfreighttech.com",
+        "contactPhone": "555-890-1237"
+      }
+    },
+    {
+      "id": "41",
+      "title": "Frontend Developer",
+      "type": "Internship",
+      "description": "Learn modern React hooks, routing, and API consumption under mentorship of senior devs.",
+      "location": "Atlanta, GA",
+      "salary": "Under $50K",
+      "company": {
+        "name": "Peach State Code",
+        "description": "Tech incubator and internship provider.",
+        "contactEmail": "intern@peachstatecode.org",
+        "contactPhone": "555-901-2348"
+      }
+    },
+    {
+      "id": "42",
+      "title": "React Performance Specialist",
+      "type": "Remote",
+      "description": "Optimize component re-renders, implement virtualized lists, and improve Lighthouse scores.",
+      "location": "Remote",
+      "salary": "$105K - $125K",
+      "company": {
+        "name": "SpeedUp Web",
+        "description": "Web performance consultancy.",
+        "contactEmail": "jobs@speedupweb.io",
+        "contactPhone": "555-012-3459"
+      }
+    },
+    {
+      "id": "43",
+      "title": "Senior Frontend Engineer",
+      "type": "Full-Time",
+      "description": "Lead the frontend rewrite of legacy enterprise software into modern React 19.",
+      "location": "Denver, CO",
+      "salary": "$115K - $135K",
+      "company": {
+        "name": "Rocky Mountain Enterprise",
+        "description": "Enterprise software solutions.",
+        "contactEmail": "careers@rockymountainent.com",
+        "contactPhone": "555-123-4570"
+      }
+    },
+    {
+      "id": "44",
+      "title": "React Developer - Media",
+      "type": "Full-Time",
+      "description": "Build video streaming interfaces, custom video players, and subscription paywalls.",
+      "location": "Los Angeles, CA",
+      "salary": "$90K - $110K",
+      "company": {
+        "name": "Hollywood Stream",
+        "description": "Digital streaming and media production tools.",
+        "contactEmail": "jobs@hollywoodstream.tv",
+        "contactPhone": "555-234-5681"
+      }
+    },
+    {
+      "id": "45",
+      "title": "React & Tailwind Specialist",
+      "type": "Part-Time",
+      "description": "Create stunning responsive UI components using Tailwind CSS and React.",
+      "location": "Austin, TX",
+      "salary": "$55K - $70K",
+      "company": {
+        "name": "Tailwind Pros",
+        "description": "Tailwind CSS design and development agency.",
+        "contactEmail": "hello@tailwindpros.com",
+        "contactPhone": "555-345-6782"
+      }
+    },
+    {
+      "id": "46",
+      "title": "Lead Frontend Developer",
+      "type": "Full-Time",
+      "description": "Manage frontend engineering team and direct architecture of high-traffic e-commerce apps.",
+      "location": "Seattle, WA",
+      "salary": "$135K - $155K",
+      "company": {
+        "name": "Puget Sound Commerce",
+        "description": "E-commerce platform for Pacific Northwest brands.",
+        "contactEmail": "talent@pugetsoundcommerce.com",
+        "contactPhone": "555-456-7893"
+      }
+    },
+    {
+      "id": "47",
+      "title": "React Developer - Cybersecurity",
+      "type": "Remote",
+      "description": "Build secure security operations center (SOC) dashboards and threat intelligence tools.",
+      "location": "Remote",
+      "salary": "$100K - $120K",
+      "company": {
+        "name": "CyberShield Tech",
+        "description": "Cybersecurity software and threat intelligence.",
+        "contactEmail": "jobs@cybershield.io",
+        "contactPhone": "555-567-8904"
+      }
+    },
+    {
+      "id": "48",
+      "title": "Junior React Developer",
+      "type": "Full-Time",
+      "description": "Develop user interface components and assist in integrating REST APIs.",
+      "location": "Phoenix, AZ",
+      "salary": "$60K - $70K",
+      "company": {
+        "name": "Cactus Web Solutions",
+        "description": "Web development agency in Arizona.",
+        "contactEmail": "jobs@cactusweb.net",
+        "contactPhone": "555-678-9015"
+      }
+    },
+    {
+      "id": "49",
+      "title": "Senior React Engineer",
+      "type": "Full-Time",
+      "description": "Build scalable state-driven frontend applications using React and Context/Redux.",
+      "location": "New York, NY",
+      "salary": "$120K - $140K",
+      "company": {
+        "name": "Gotham Software",
+        "description": "Software engineering consultancy in NYC.",
+        "contactEmail": "careers@gothamsoftware.com",
+        "contactPhone": "555-789-0127"
+      }
+    },
+    {
+      "id": "50",
+      "title": "React Native Mobile Dev",
+      "type": "Remote",
+      "description": "Develop cross-platform financial mobile applications with biometric authentication.",
+      "location": "Remote",
+      "salary": "$110K - $130K",
+      "company": {
+        "name": "FinMobile Global",
+        "description": "Financial technology mobile applications.",
+        "contactEmail": "jobs@finmobile.io",
+        "contactPhone": "555-890-1238"
+      }
+    },
+    {
+      "id": "51",
+      "title": "Frontend Developer - HR Tech",
+      "type": "Full-Time",
+      "description": "Build recruitment pipelines, employee portals, and resume parsing interfaces in React.",
+      "location": "Dallas, TX",
+      "salary": "$75K - $90K",
+      "company": {
+        "name": "TalentFlow Systems",
+        "description": "Human resources and applicant tracking software.",
+        "contactEmail": "jobs@talentflow.com",
+        "contactPhone": "555-901-2349"
+      }
+    },
+    {
+      "id": "52",
+      "title": "React Dashboard Engineer",
+      "type": "Full-Time",
+      "description": "Create real-time IoT sensor data visualization dashboards using React and WebSockets.",
+      "location": "San Jose, CA",
+      "salary": "$105K - $125K",
+      "company": {
+        "name": "Silicon IoT",
+        "description": "Internet of Things data analytics.",
+        "contactEmail": "careers@siliconiot.com",
+        "contactPhone": "555-012-3460"
+      }
+    },
+    {
+      "id": "53",
+      "title": "React Web App Developer",
+      "type": "Part-Time",
+      "description": "Build and maintain client websites and custom web applications.",
+      "location": "Portland, OR",
+      "salary": "$65K - $80K",
+      "company": {
+        "name": "Rose City Web",
+        "description": "Portland-based web design and dev agency.",
+        "contactEmail": "hello@rosecityweb.com",
+        "contactPhone": "555-123-4571"
+      }
+    },
+    {
+      "id": "54",
+      "title": "Senior Frontend Developer",
+      "type": "Remote",
+      "description": "Drive frontend architecture, code quality, and performance for high-growth SaaS platform.",
+      "location": "Remote",
+      "salary": "$125K - $145K",
+      "company": {
+        "name": "CloudScale Apps",
+        "description": "SaaS applications and cloud tooling.",
+        "contactEmail": "jobs@cloudscaleapps.io",
+        "contactPhone": "555-234-5682"
+      }
+    },
+    {
+      "id": "55",
+      "title": "React & GraphQL Developer",
+      "type": "Full-Time",
+      "description": "Integrate Apollo Client with React to build reactive, data-dense web applications.",
+      "location": "Boston, MA",
+      "salary": "$95K - $115K",
+      "company": {
+        "name": "QueryCraft Tech",
+        "description": "GraphQL API and frontend integration specialists.",
+        "contactEmail": "careers@querycraft.com",
+        "contactPhone": "555-345-6783"
+      }
+    },
+    {
+      "id": "56",
+      "title": "Frontend UI Developer",
+      "type": "Full-Time",
+      "description": "Bring wireframes to life with clean, reusable React components and CSS animations.",
+      "location": "Miami, FL",
+      "salary": "$70K - $85K",
+      "company": {
+        "name": "Biscayne UI Lab",
+        "description": "Creative frontend development agency.",
+        "contactEmail": "jobs@biscayneui.com",
+        "contactPhone": "555-456-7894"
+      }
+    },
+    {
+      "id": "57",
+      "title": "React Native Lead",
+      "type": "Full-Time",
+      "description": "Lead mobile app development lifecycle from architecture to App Store deployment.",
+      "location": "San Francisco, CA",
+      "salary": "$130K - $150K",
+      "company": {
+        "name": "Bay Mobile Pro",
+        "description": "Mobile application development experts.",
+        "contactEmail": "talent@baymobilepro.com",
+        "contactPhone": "555-567-8905"
+      }
+    },
+    {
+      "id": "58",
+      "title": "Junior Frontend Engineer",
+      "type": "Full-Time",
+      "description": "Collaborate with senior developers on building responsive React components and state management.",
+      "location": "Nashville, TN",
+      "salary": "$55K - $65K",
+      "company": {
+        "name": "Music City Software",
+        "description": "Software development firm in Nashville.",
+        "contactEmail": "jobs@musiccitysoft.com",
+        "contactPhone": "555-678-9016"
+      }
+    },
+    {
+      "id": "59",
+      "title": "Senior React Developer",
+      "type": "Remote",
+      "description": "Build high-performance web applications using React, TypeScript, and modern build tools.",
+      "location": "Remote",
+      "salary": "$115K - $135K",
+      "company": {
+        "name": "RemoteFirst Tech",
+        "description": "Fully remote technology company.",
+        "contactEmail": "careers@remotefirst.io",
+        "contactPhone": "555-789-0128"
+      }
+    },
+    {
+      "id": "60",
+      "title": "React Developer - PropTech",
+      "type": "Full-Time",
+      "description": "Develop interactive property search maps, filtering tools, and client portal interfaces.",
+      "location": "Denver, CO",
+      "salary": "$80K - $95K",
+      "company": {
+        "name": "Rocky Mountain PropTech",
+        "description": "Real estate software innovations.",
+        "contactEmail": "jobs@rmproptech.com",
+        "contactPhone": "555-890-1239"
+      }
+    },
+    {
+      "id": "61",
+      "title": "Frontend Software Engineer",
+      "type": "Full-Time",
+      "description": "Develop and test user-facing features for enterprise billing and invoicing platforms.",
+      "location": "Chicago, IL",
+      "salary": "$85K - $100K",
+      "company": {
+        "name": "Windy City Billing",
+        "description": "Fintech billing solutions.",
+        "contactEmail": "jobs@windycitybilling.com",
+        "contactPhone": "555-901-2350"
+      }
+    },
+    {
+      "id": "62",
+      "title": "React & Redux Developer",
+      "type": "Full-Time",
+      "description": "Build complex single-page applications with centralized state management.",
+      "location": "Atlanta, GA",
+      "salary": "$80K - $95K",
+      "company": {
+        "name": "Peach State Web",
+        "description": "Web applications and software engineering.",
+        "contactEmail": "careers@peachstateweb.com",
+        "contactPhone": "555-012-3461"
+      }
+    },
+    {
+      "id": "63",
+      "title": "UI/UX React Engineer",
+      "type": "Remote",
+      "description": "Bridge the gap between design and code by building reusable component libraries.",
+      "location": "Remote",
+      "salary": "$95K - $115K",
+      "company": {
+        "name": "DesignCode Systems",
+        "description": "UI/UX design and frontend development.",
+        "contactEmail": "jobs@designcode.io",
+        "contactPhone": "555-123-4572"
+      }
+    },
+    {
+      "id": "64",
+      "title": "Junior Web Developer",
+      "type": "Part-Time",
+      "description": "Assist in building landing pages, fixing CSS bugs, and managing content updates.",
+      "location": "Orlando, FL",
+      "salary": "Under $50K",
+      "company": {
+        "name": "Orlando Digital Co",
+        "description": "Digital marketing and web agency.",
+        "contactEmail": "info@orlandodigital.net",
+        "contactPhone": "555-234-5683"
+      }
+    },
+    {
+      "id": "65",
+      "title": "Senior Frontend Architect",
+      "type": "Full-Time",
+      "description": "Lead modernization of core platform architecture to React 19 and Server Components.",
+      "location": "San Francisco, CA",
+      "salary": "$140K - $165K",
+      "company": {
+        "name": "Bay Software Group",
+        "description": "Enterprise software engineering.",
+        "contactEmail": "talent@baysoftware.com",
+        "contactPhone": "555-345-6784"
+      }
+    },
+    {
+      "id": "66",
+      "title": "React Developer - HealthTech",
+      "type": "Full-Time",
+      "description": "Build secure telehealth video consultation portals and patient record dashboards.",
+      "location": "Seattle, WA",
+      "salary": "$90K - $110K",
+      "company": {
+        "name": "Puget Health Tech",
+        "description": "Telehealth and medical software.",
+        "contactEmail": "careers@pugethealth.com",
+        "contactPhone": "555-456-7895"
+      }
+    },
+    {
+      "id": "67",
+      "title": "React Native Engineer",
+      "type": "Remote",
+      "description": "Develop cross-platform mobile solutions with native module bridges.",
+      "location": "Remote",
+      "salary": "$100K - $120K",
+      "company": {
+        "name": "AppWorks Remote",
+        "description": "Remote mobile app development studio.",
+        "contactEmail": "jobs@appworksremote.co",
+        "contactPhone": "555-567-8906"
+      }
+    },
+    {
+      "id": "68",
+      "title": "Frontend Developer",
+      "type": "Full-Time",
+      "description": "Create engaging interactive web experiences using React, HTML5, and CSS3.",
+      "location": "Austin, TX",
+      "salary": "$75K - $90K",
+      "company": {
+        "name": "Austin Creative Tech",
+        "description": "Creative web development agency.",
+        "contactEmail": "jobs@austincreativetech.com",
+        "contactPhone": "555-678-9017"
+      }
+    },
+    {
+      "id": "69",
+      "title": "Senior React Developer",
+      "type": "Full-Time",
+      "description": "Lead development of high-performance analytics dashboards and data grids.",
+      "location": "New York, NY",
+      "salary": "$125K - $145K",
+      "company": {
+        "name": "Wall Street Analytics",
+        "description": "Financial market data platforms.",
+        "contactEmail": "careers@wallstreetanalytics.com",
+        "contactPhone": "555-789-0129"
+      }
+    },
+    {
+      "id": "70",
+      "title": "React Developer - EdTech",
+      "type": "Part-Time",
+      "description": "Build interactive student assessment modules and progress tracking charts.",
+      "location": "Boston, MA",
+      "salary": "$60K - $75K",
+      "company": {
+        "name": "Boston EdTech Labs",
+        "description": "Educational software solutions.",
+        "contactEmail": "jobs@bostonedtech.org",
+        "contactPhone": "555-890-1240"
+      }
+    },
+    {
+      "id": "71",
+      "title": "React Performance Engineer",
+      "type": "Remote",
+      "description": "Analyze and resolve frontend performance bottlenecks across large React codebases.",
+      "location": "Remote",
+      "salary": "$110K - $130K",
+      "company": {
+        "name": "SpeedOps Remote",
+        "description": "Web performance optimization experts.",
+        "contactEmail": "careers@speedops.io",
+        "contactPhone": "555-901-2351"
+      }
+    },
+    {
+      "id": "72",
+      "title": "Frontend Developer - Gaming",
+      "type": "Full-Time",
+      "description": "Build web-based game launcher interfaces and player profile management hubs.",
+      "location": "Los Angeles, CA",
+      "salary": "$85K - $100K",
+      "company": {
+        "name": "Pacific Gaming Tech",
+        "description": "Gaming platforms and digital distribution.",
+        "contactEmail": "jobs@pacificgaming.dev",
+        "contactPhone": "555-012-3462"
+      }
+    },
+    {
+      "id": "73",
+      "title": "Junior React Developer",
+      "type": "Full-Time",
+      "description": "Build reusable UI components and write unit tests for growing SaaS product.",
+      "location": "Phoenix, AZ",
+      "salary": "$55K - $65K",
+      "company": {
+        "name": "Arizona Software Co",
+        "description": "SaaS product development.",
+        "contactEmail": "jobs@arizonasoftware.com",
+        "contactPhone": "555-123-4573"
+      }
+    },
+    {
+      "id": "74",
+      "title": "Senior Frontend Engineer",
+      "type": "Full-Time",
+      "description": "Build and scale enterprise React applications with strict adherence to design guidelines.",
+      "location": "Dallas, TX",
+      "salary": "$115K - $135K",
+      "company": {
+        "name": "Lone Star Systems",
+        "description": "Enterprise IT and software solutions.",
+        "contactEmail": "careers@lonestarsystems.com",
+        "contactPhone": "555-234-5684"
+      }
+    },
+    {
+      "id": "75",
+      "title": "React & TypeScript Developer",
+      "type": "Remote",
+      "description": "Develop robust type-safe frontend components for cloud management consoles.",
+      "location": "Remote",
+      "salary": "$100K - $120K",
+      "company": {
+        "name": "CloudType Dev",
+        "description": "Cloud management tooling.",
+        "contactEmail": "jobs@cloudtype.io",
+        "contactPhone": "555-345-6785"
+      }
+    },
+    {
+      "id": "76",
+      "title": "Frontend UI/UX Engineer",
+      "type": "Full-Time",
+      "description": "Design user flows and implement responsive React interfaces.",
+      "location": "Denver, CO",
+      "salary": "$85K - $100K",
+      "company": {
+        "name": "Mile High UI",
+        "description": "UI/UX design and development agency.",
+        "contactEmail": "careers@milehighui.com",
+        "contactPhone": "555-456-7896"
+      }
+    },
+    {
+      "id": "77",
+      "title": "React Native Developer",
+      "type": "Full-Time",
+      "description": "Build high-performance mobile apps for supply chain tracking.",
+      "location": "Chicago, IL",
+      "salary": "$95K - $115K",
+      "company": {
+        "name": "Windy City Mobile",
+        "description": "Mobile supply chain applications.",
+        "contactEmail": "jobs@windycitymobile.com",
+        "contactPhone": "555-567-8907"
+      }
+    },
+    {
+      "id": "78",
+      "title": "React Developer - CleanTech",
+      "type": "Remote",
+      "description": "Build solar and wind energy production monitoring interfaces.",
+      "location": "Remote",
+      "salary": "$90K - $110K",
+      "company": {
+        "name": "CleanEnergy Web",
+        "description": "Renewable energy software.",
+        "contactEmail": "careers@cleanenergyweb.org",
+        "contactPhone": "555-678-9018"
+      }
+    },
+    {
+      "id": "79",
+      "title": "Lead Frontend Engineer",
+      "type": "Full-Time",
+      "description": "Lead frontend engineering squad building financial trading terminals in React.",
+      "location": "New York, NY",
+      "salary": "$140K - $165K",
+      "company": {
+        "name": "Wall Street Tech Group",
+        "description": "Financial trading software.",
+        "contactEmail": "talent@wallstreettech.com",
+        "contactPhone": "555-789-0130"
+      }
+    },
+    {
+      "id": "80",
+      "title": "Junior Frontend Developer",
+      "type": "Internship",
+      "description": "Gain hands-on experience building React components and participating in code reviews.",
+      "location": "Atlanta, GA",
+      "salary": "Under $50K",
+      "company": {
+        "name": "Georgia Code Academy",
+        "description": "Tech training and incubator.",
+        "contactEmail": "intern@georgiacode.org",
+        "contactPhone": "555-890-1241"
+      }
+    },
+    {
+      "id": "81",
+      "title": "Senior React Developer",
+      "type": "Full-Time",
+      "description": "Build robust single-page applications with state-of-the-art tooling and APIs.",
+      "location": "San Diego, CA",
+      "salary": "$115K - $135K",
+      "company": {
+        "name": "Pacific Software Lab",
+        "description": "Software product lab.",
+        "contactEmail": "jobs@pacificsoftwarelab.com",
+        "contactPhone": "555-901-2352"
+      }
+    },
+    {
+      "id": "82",
+      "title": "React Developer - Travel Tech",
+      "type": "Remote",
+      "description": "Build flight booking engines and interactive destination discovery portals.",
+      "location": "Remote",
+      "salary": "$85K - $105K",
+      "company": {
+        "name": "Skybound Tech",
+        "description": "Travel technology platforms.",
+        "contactEmail": "careers@skyboundtech.io",
+        "contactPhone": "555-012-3463"
+      }
+    },
+    {
+      "id": "83",
+      "title": "Frontend Engineer",
+      "type": "Full-Time",
+      "description": "Create responsive web layouts and interactive forms using React and Tailwind.",
+      "location": "Austin, TX",
+      "salary": "$80K - $95K",
+      "company": {
+        "name": "Capital City Web",
+        "description": "Austin web development firm.",
+        "contactEmail": "jobs@capitalcityweb.com",
+        "contactPhone": "555-123-4574"
+      }
+    },
+    {
+      "id": "84",
+      "title": "React Native Mobile Engineer",
+      "type": "Full-Time",
+      "description": "Develop consumer-facing mobile apps with seamless animations and offline caching.",
+      "location": "San Francisco, CA",
+      "salary": "$120K - $140K",
+      "company": {
+        "name": "Bay Consumer Apps",
+        "description": "Consumer mobile applications.",
+        "contactEmail": "talent@bayconsumerapps.com",
+        "contactPhone": "555-234-5685"
+      }
+    },
+    {
+      "id": "85",
+      "title": "React Developer - Logistics",
+      "type": "Remote",
+      "description": "Build fleet management dashboards and real-time delivery tracking maps.",
+      "location": "Remote",
+      "salary": "$90K - $110K",
+      "company": {
+        "name": "Global Fleet Tech",
+        "description": "Logistics and fleet management software.",
+        "contactEmail": "jobs@globalfleettech.com",
+        "contactPhone": "555-345-6786"
+      }
+    },
+    {
+      "id": "86",
+      "title": "Senior Frontend Developer",
+      "type": "Full-Time",
+      "description": "Architect and build scalable frontend systems for enterprise e-commerce.",
+      "location": "Seattle, WA",
+      "salary": "$125K - $145K",
+      "company": {
+        "name": "Puget Enterprise Commerce",
+        "description": "Enterprise e-commerce solutions.",
+        "contactEmail": "careers@pugetenterprise.com",
+        "contactPhone": "555-456-7897"
+      }
+    },
+    {
+      "id": "87",
+      "title": "Junior React Developer",
+      "type": "Part-Time",
+      "description": "Support frontend team in creating UI components and fixing cross-browser compatibility bugs.",
+      "location": "Miami, FL",
+      "salary": "$55K - $65K",
+      "company": {
+        "name": "Biscayne Junior Devs",
+        "description": "Web development incubator.",
+        "contactEmail": "jobs@biscaynejuniors.com",
+        "contactPhone": "555-567-8908"
+      }
+    },
+    {
+      "id": "88",
+      "title": "React & GraphQL Engineer",
+      "type": "Remote",
+      "description": "Build high-throughput data-driven dashboards using React and GraphQL queries.",
+      "location": "Remote",
+      "salary": "$110K - $130K",
+      "company": {
+        "name": "DataQuery Remote",
+        "description": "Data integration and GraphQL tools.",
+        "contactEmail": "careers@dataquery.io",
+        "contactPhone": "555-678-9019"
+      }
+    },
+    {
+      "id": "89",
+      "title": "React Developer - AdTech",
+      "type": "Full-Time",
+      "description": "Build advertising analytics dashboards and campaign management interfaces.",
+      "location": "Boston, MA",
+      "salary": "$95K - $115K",
+      "company": {
+        "name": "AdMetrics Pro",
+        "description": "Advertising analytics and technology.",
+        "contactEmail": "jobs@admetricspro.com",
+        "contactPhone": "555-789-0131"
+      }
+    },
+    {
+      "id": "90",
+      "title": "Lead UI Developer",
+      "type": "Full-Time",
+      "description": "Lead design system implementation and mentor junior developers in React best practices.",
+      "location": "Denver, CO",
+      "salary": "$120K - $140K",
+      "company": {
+        "name": "Rockies UI Group",
+        "description": "Frontend architecture consultancy.",
+        "contactEmail": "talent@rockiesui.com",
+        "contactPhone": "555-890-1242"
+      }
+    },
+    {
+      "id": "91",
+      "title": "React Developer - Security",
+      "type": "Remote",
+      "description": "Develop security compliance auditing dashboards and access control management panels.",
+      "location": "Remote",
+      "salary": "$105K - $125K",
+      "company": {
+        "name": "SecureGate Tech",
+        "description": "Cloud security and compliance software.",
+        "contactEmail": "careers@securegate.io",
+        "contactPhone": "555-901-2353"
+      }
+    },
+    {
+      "id": "92",
+      "title": "Frontend Software Engineer",
+      "type": "Full-Time",
+      "description": "Build responsive and accessible web interfaces for customer support ticket systems.",
+      "location": "Chicago, IL",
+      "salary": "$80K - $95K",
+      "company": {
+        "name": "HelpDesk Solutions",
+        "description": "Customer support software platforms.",
+        "contactEmail": "jobs@helpdesksolutions.com",
+        "contactPhone": "555-012-3464"
+      }
+    },
+    {
+      "id": "93",
+      "title": "React Native Mobile Dev",
+      "type": "Part-Time",
+      "description": "Maintain cross-platform delivery driver mobile application.",
+      "location": "Atlanta, GA",
+      "salary": "$60K - $75K",
+      "company": {
+        "name": "Peach Mobile",
+        "description": "Logistics mobile applications.",
+        "contactEmail": "jobs@peachmobile.org",
+        "contactPhone": "555-123-4575"
+      }
+    },
+    {
+      "id": "94",
+      "title": "Senior Frontend Developer",
+      "type": "Full-Time",
+      "description": "Architect real-time collaborative whiteboarding and project planning tools in React.",
+      "location": "San Francisco, CA",
+      "salary": "$130K - $150K",
+      "company": {
+        "name": "CollabTools Inc",
+        "description": "Remote team collaboration software.",
+        "contactEmail": "careers@collabtools.com",
+        "contactPhone": "555-234-5686"
+      }
+    },
+    {
+      "id": "95",
+      "title": "React Developer - FinTech",
+      "type": "Remote",
+      "description": "Build cryptocurrency portfolio tracking and trading execution interfaces.",
+      "location": "Remote",
+      "salary": "$115K - $135K",
+      "company": {
+        "name": "CryptoLedger Tech",
+        "description": "Fintech and blockchain software.",
+        "contactEmail": "jobs@cryptoledger.io",
+        "contactPhone": "555-345-6787"
+      }
+    },
+    {
+      "id": "96",
+      "title": "Junior Frontend Developer",
+      "type": "Full-Time",
+      "description": "Build UI components and learn advanced state management in a collaborative team.",
+      "location": "Orlando, FL",
+      "salary": "$55K - $68K",
+      "company": {
+        "name": "Sunshine Code Lab",
+        "description": "Software development and training.",
+        "contactEmail": "jobs@sunshinecodelab.com",
+        "contactPhone": "555-456-7898"
+      }
+    },
+    {
+      "id": "97",
+      "title": "React Performance Specialist",
+      "type": "Full-Time",
+      "description": "Optimize component rendering trees and resolve memory leaks in heavy data dashboards.",
+      "location": "New York, NY",
+      "salary": "$120K - $140K",
+      "company": {
+        "name": "Gotham Performance",
+        "description": "Web performance optimization.",
+        "contactEmail": "careers@gothamperf.com",
+        "contactPhone": "555-567-8909"
+      }
+    },
+    {
+      "id": "98",
+      "title": "Senior React Architect",
+      "type": "Remote",
+      "description": "Define enterprise frontend standards and lead technical migration projects.",
+      "location": "Remote",
+      "salary": "$140K - $165K",
+      "company": {
+        "name": "Apex Enterprise Tech",
+        "description": "Enterprise architecture consultancy.",
+        "contactEmail": "jobs@apexenterprise.io",
+        "contactPhone": "555-678-9020"
+      }
+    },
+    {
+      "id": "99",
+      "title": "React & Tailwind Developer",
+      "type": "Full-Time",
+      "description": "Design and code modern landing pages and component libraries using Tailwind CSS and React.",
+      "location": "Austin, TX",
+      "salary": "$85K - $100K",
+      "company": {
+        "name": "Austin UI Works",
+        "description": "Tailwind CSS development studio.",
+        "contactEmail": "careers@austinuiworks.com",
+        "contactPhone": "555-789-0132"
+      }
+    },
+    {
+      "id": "100",
+      "title": "Lead React Developer",
+      "type": "Full-Time",
+      "description": "Lead the frontend team for our flagship cloud analytics product from conception to scale.",
+      "location": "Seattle, WA",
+      "salary": "$135K - $155K",
+      "company": {
+        "name": "CloudAnalytics Corp",
+        "description": "Cloud data analytics platforms.",
+        "contactEmail": "talent@cloudanalyticscorp.com",
+        "contactPhone": "555-890-1243"
+      }
     }
-  ]
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
 }
