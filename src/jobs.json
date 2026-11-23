@@ -85,20 +85,6 @@
       }
     },
     {
-      "id": "7",
-      "title": "Junior UI Engineer",
-      "type": "Full-Time",
-      "description": "Looking for a Junior UI Engineer eager to learn React, Tailwind CSS, and modern frontend pipelines in Austin, TX.",
-      "location": "Austin, TX",
-      "salary": "$50K - $60K",
-      "company": {
-        "name": "Austin Web Co",
-        "description": "Web agency focused on high-performance landing pages and interactive client interfaces.",
-        "contactEmail": "jobs@austinweb.com",
-        "contactPhone": "555-123-4567"
-      }
-    },
-    {
       "id": "8",
       "title": "Senior JavaScript Engineer",
       "type": "Remote",
@@ -1399,6 +1385,20 @@
         "contactEmail": "talent@cloudanalyticscorp.com",
         "contactPhone": "555-890-1243"
       }
+    },
+    {
+      "title": "Dormir",
+      "type": "Remote",
+      "location": "Miami,FL",
+      "description": "Dormir placidamente",
+      "salary": "$50K - 60K",
+      "company": {
+        "name": "Sleeping company",
+        "description": "This is a company to sleep",
+        "contactEmail": "ramiresnj@gmail.com",
+        "contactPhone": "3187370628"
+      },
+      "id": "VFXJ-zj66nE"
     }
   ],
   "$schema": "./node_modules/json-server/schema.json"
